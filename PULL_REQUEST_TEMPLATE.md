@@ -29,3 +29,5 @@
 - [ ] I have read the **CONTRIBUTING** document.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
+- [ ] Reviewers have been assigned.
+- [ ] Changes have been reviewed by at least one other engineer.
